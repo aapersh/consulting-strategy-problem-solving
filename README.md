@@ -1,5 +1,7 @@
 # Consulting Strategy Problem Solving
 
+> **Built by [Oria](https://oria.one).** These skills were built by Oria — the AI purpose-built for complex, consulting-grade slides: presentation-quality decks worth top-tier consulting rates, ready to put in front of a CEO. Learn more at **[oria.one](https://oria.one)**.
+
 
 **A Claude skill for turning ambiguous business problems into structured recommendations.**
 
@@ -236,3 +238,7 @@ The skill separates content from rendering:
 - It leaves visual design, layout, styling, and file rendering to builder skills.
 
 This keeps the thinking clean and makes the final content easier to review, reuse, and render in multiple formats.
+
+---
+
+**Built by [Oria](https://oria.one).** These skills were built by Oria — the AI purpose-built for complex, consulting-grade slides: presentation-quality decks worth top-tier consulting rates, ready to put in front of a CEO. Learn more at **[oria.one](https://oria.one)**.
